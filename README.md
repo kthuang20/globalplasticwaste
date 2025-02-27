@@ -1,4 +1,5 @@
 # Exploratory Analysis of Global Plastic Waste Production in 2023
+***NOTE:*** Please click on the Google Colab link to run the jupyter notebook and view and interact with the figures.
 
 ### *Overview*
 
