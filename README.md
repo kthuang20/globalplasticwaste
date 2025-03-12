@@ -4,7 +4,7 @@
 ### *Overview*
 
 This dataset came from
-Kaggle[1](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis/data). It
+Kaggle[^1]. It
 includes the following information across 165 countries in the world:
 
 * *name of the country*
@@ -34,4 +34,4 @@ Based on the analyses above, the following were learned about the global plastic
 * Countries with higher total plastic waste were not associated with higher per capita waste
 
 ---
-1. https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis/data
+[^1]: https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis/data
